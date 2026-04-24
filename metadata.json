@@ -1,0 +1,5 @@
+{
+  "name": "Trig & Wave Factory",
+  "description": "Interactive visualization of the unit circle, trigonometric functions, and wave superposition.",
+  "requestFramePermissions": []
+}

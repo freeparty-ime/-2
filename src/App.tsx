@@ -202,9 +202,6 @@ export default function App() {
                   <button onClick={() => applyPreset('math')} className="flex items-center justify-center gap-1.5 py-2 px-2 rounded-lg bg-emerald-500/10 hover:bg-emerald-500/20 text-xs text-emerald-300 transition-colors border border-emerald-500/30 col-span-2">
                     <FunctionSquare className="w-3 h-3" /> 静态数学函数图库 (倒三角/抛物线)
                   </button>
-                  <button onClick={() => applyPreset('math')} className="flex items-center justify-center gap-1.5 py-2 px-2 rounded-lg bg-emerald-500/10 hover:bg-emerald-500/20 text-xs text-emerald-300 transition-colors border border-emerald-500/30 col-span-2">
-                    <FunctionSquare className="w-3 h-3" /> 静态数学函数图库 (倒三角/抛物线)
-                  </button>
                 </div>
               </div>
             </div>
